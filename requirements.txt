@@ -1,5 +1,5 @@
 beautifulsoup4==4.7.0
-Pillow==6.0.0
+Pillow==9.0.1
 pyfavicon==0.1.1
 pyotp==2.2.7
 pyzbar==0.1.8
